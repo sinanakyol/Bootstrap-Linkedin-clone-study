@@ -1,5 +1,5 @@
-# Linkedin-clone-study
+# Linkedin-Clone
 
-### with Bootstrap
+*developed using Bootstrap*
 
 ![Linkedin](ss.png)
